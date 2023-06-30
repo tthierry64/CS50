@@ -1,0 +1,27 @@
+sort1 uses: Bubble sort
+
+How do you know?: Because the worst case is when the list is reversed (n) and th ebest is when it is sorted (n). And for the sorted lis, sort1 (n) is fastest than sort 3 (n²)
+
+sort2 uses: Merge sort
+
+How do you know?: Because it is the fastest (nlogn) for each case
+
+sort3 uses: Selection sort
+
+How do you know?: Because for each case the duration is equal.
+
+
+
+
+
+Time
+              random                     reversed                    sorted
+SORT  5000    10000   50000       5000    10000   50000       5000    10000   50000
+
+1     0.079    0.301   7.536      0.075   0.248   5.642       0.038     0.082   0.648
+
+
+2     0.037    0.065   0.493      0.025   0.072    0.451      0.027     0.062   0.412
+
+
+3     0.049    0.169   3.154      0.075   0.182    3.375      0.049     0.168   3.371

@@ -1,5 +1,5 @@
 # CS50
-Projetcs and exercices done with CS50 by Harvard begun since Jan. 2023.
+Projetcs and exercices done with CS50 by Harvard begun since Jan. 2023 and not finished yet.
 
 Check the program at : https://cs50.harvard.edu/x/2023/
 

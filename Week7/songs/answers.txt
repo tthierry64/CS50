@@ -1,0 +1,3 @@
+Thanks to the 5th query we know that the average energy is 0.65906. So the aura is quite energetic.
+
+I would weight the average of energy with the average of danceability.
